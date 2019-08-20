@@ -1,4 +1,4 @@
-# DE_IVAExtension v1.0.1
+# DE_IVAExtension v1.0.2
 created by DemonEin
 
 ## Features
@@ -30,3 +30,10 @@ Thanks to MOARdV, creater of RasterPropMonitor, which makes the IVAs interactive
 ## License
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+----------------------CHANGELOG----------------------
+v1.0.2
+fixed mk2LanderCan collider overlaps preventing buttons from being usable
+
+v.1.0.1
+added prop to add missing audio
